@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import axios from 'axios';
 
-axios.defaults.baseURL = 'http://ssal.sparcs.org:24244';
+axios.defaults.baseURL = 'http://ssal.sparcs.org:57785';
 ReactDOM.render(
   <React.StrictMode>
     <App />
